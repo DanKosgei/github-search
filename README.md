@@ -1,6 +1,6 @@
 # Github app
 
-#### Epicodus JavaScript Independent Project, 10/13/2016
+#### JavaScript Independent Project, 30/07/2017
 
 #### By **Dan Kosgei**
 
